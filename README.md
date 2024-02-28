@@ -2,11 +2,11 @@
 <h3 align="center">A passionate future Software Engineer from Pakistan</h3>
 <imgalign="right"alt="coding"width="400"src="![image](https://github.com/Asma795/Asma795/assets/152914866/43e030e0-adac-4f6b-adb5-368534ed08ec"
 
-- 🌱 I’m currently learning in GIAIC **Generative AI**
+ 🌱 I’m currently learning in GIAIC **Generative AI**
 
-- 📫 How to reach me **asmashahid795@gmail.com**
+ 📫 How to reach me **asmashahid795@gmail.com**
 
-- ⚡Fun fact **I like fun in respective boundaries**
+ ⚡Fun fact **I like fun in respective boundaries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
