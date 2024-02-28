@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asma Shahid</h1>
 <h3 align="center">A passionate future Software Engineer from Pakistan</h3>
-<imgalign="right"alt="coding"width="400"src="![image](https://github.com/Asma795/Asma795/assets/152914866/43e030e0-adac-4f6b-adb5-368534ed08ec">
+<img align="right" alt="coding" width="400"src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
  🌱 I’m currently learning in GIAIC **Generative AI**
 
