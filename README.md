@@ -1,4 +1,4 @@
-! [logo] (https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg)
+ ![logo](https://techaccess.co.za/wp-content/uploads/2021/12/Black-Technology-LinkedIn-Banner-9.jpg)
 <h1 align="center">Hi 👋, I'm Asma Shahid</h1>
 <h3 align="center">A passionate future Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400"src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
