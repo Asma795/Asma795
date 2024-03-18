@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQEuc4zu_dVnsA/profile-displaybackgroundimage-shrink_350_1400/0/1709755655224?e=1715212800&v=beta&t=gml3A2GjBkdFKg_5mtT_L8044jOqnvrEEzsvjBao7LI)
+![logo](https://media.licdn.com/dms/image/D5616AQF6l71BLZ8j4w/profile-displaybackgroundimage-shrink_350_1400/0/1710801391369?e=1716422400&v=beta&t=0WB0LpEh_DL3QxwPHZXIYLaoS11uPJ69ymvOZdm3Miw)
 <h1 align="center">Hi 👋, I'm Asma Shahid</h1>
 <h3 align="center">A passionate future Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400"src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
